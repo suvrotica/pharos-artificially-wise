@@ -25,8 +25,8 @@
     <h2 id="paragraphs"><a href="#paragraphs">Paragraphs</a></h2>
     <p>
       <strong>Lorem Ipsum</strong>
-      dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. This
-      is the content:
+      dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      This is the content:
       <strong><em>The</em></strong>
       <em>quick</em>
       <u>brown</u>
@@ -395,7 +395,7 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
     <h2 id="videos-gif"><a href="#videos-gif">Videos / GIF</a></h2>
     <p><Video mp4="/example/example2.mp4" id="MP4 Example" /></p>
     <h2 id="youtube"><a href="#youtube">Youtube</a></h2>
-    <Youtube id="IZUOgINGGtA" />
+    <Youtube id="ZXsQAXx_ao0" />
 
     <h2 id="custom-svelte-component"><a href="#custom-svelte-component">Custom Svelte Component</a></h2>
     <div class="p4 border-1 shadow-xl rounded-xl border-black dark:border-white overflow-auto">
@@ -450,7 +450,7 @@ m0 0v40h399900v-40z m100 194v40h399900v-40zm0 0v40h399900v-40z'/></svg></span></
           <br />
           <code class="inline-code-block">&lcub; my code &rcub;</code>
           <br />
-          Add as many paragraphs as you like.
+           Add as many paragraphs as you like.
         </p>
         <a href="#fnref:bignote">↩</a>
       </li>
